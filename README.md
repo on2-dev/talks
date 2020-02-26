@@ -2,7 +2,7 @@
 This is the repository for all On2 talks and its related material, content, presentation and resources.  
 Below you'll find the index by content, author, etc.  
 
-# Calendar
+# 🗓 Calendar
 Date | Talk
 --- | ---
 March 02, 2020 | [Docker](#docker)
