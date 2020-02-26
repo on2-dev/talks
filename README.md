@@ -1,6 +1,5 @@
 # On2 Talks
 This is the repository for all On2 talks and its related material, content, presentation and resources.  
-
 Below you'll find the index by content, author, etc.:  
 
 ## Docker
