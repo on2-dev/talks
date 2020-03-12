@@ -8,6 +8,7 @@ Date | Talk
 March 02, 2020 | [Docker](#docker)
 March 16, 2020 | [Untitled](#untitled)
 March 30, 2020 | [TypeScript - It seems like types in JavaScript are a good thing](#typescript)
+TBA | [Modelagem de Ameaças](#ThreatModeling)
 
 
 ## Docker
@@ -43,4 +44,17 @@ __Description [en]__ | TypeScript attracts more and more people in the dev commu
 __Author__ | Jaydson Gomes ([@jaydson](https://github.com/orgs/on2-dev/people/jaydson))  
 __Tags__ | typescript, javascript  
 __Slides__ |  
+__Resources__ | 
+
+
+
+## Modelagem de Ameaças
+Info | Data
+--- | ---
+__Date__ | TBA
+__Title__ | Modelagem de Ameaças
+__Description__ | 
+__Author__ | Renata ([@rsip22](https://github.com/renata-on2))  
+__Tags__| segurança, threat modeling, owasp
+__Slides__ | 
 __Resources__ | 
