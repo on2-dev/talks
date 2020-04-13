@@ -5,10 +5,22 @@ Below you'll find the index by content, author, etc.
 # 🗓 Calendar
 Date | Talk
 --- | ---
-March 02, 2020 | [Docker](#docker)
-March 16, 2020 | [Untitled](#untitled)
+March 13, 2020 | [The Power of CSS3](https://github.com/lucaspdroz/ThePowerOfCSS)
 March 30, 2020 | [TypeScript - It seems like types in JavaScript are a good thing](#typescript)
+March 02, 2020 | [Docker](#docker)
 
+
+
+## The Power of CSS3
+Info | Data
+--- | ---
+__Date__ | April 13, 2020  
+__Title__ |   The Power of CSS3
+__Description__ |  A Showcase about the power of CSS3 and what it can really do.
+__Author__ | Lucas ([@lucaspdroz](https://github.com/lucaspdroz))  
+__Tags__ |  CSS, Webdesign, web-art
+__Slides__ |  [The Power of CSS3](https://github.com/lucaspdroz/ThePowerOfCSS)
+__Resources__ | 
 
 ## Docker
 Info | Data
@@ -16,7 +28,7 @@ Info | Data
 __Date__ | March 02, 2020
 __Title__ | Docker
 __Description__ | null
-__Author__ | Williams ([@petersonwpm](https://github.com/orgs/on2-dev/people/petersonwpm))  
+__Author__ | Williams ([@petersonwpm](https://github.com/petersonwpm))  
 __Tags__| docker, container  
 __Slides__ | null
 __Resources__ | [Docker](/docker)
@@ -27,7 +39,7 @@ Info | Data
 __Date__ | March 16, 2020  
 __Title__ |   
 __Description__ |  
-__Author__ | Alexandre Conrado ([@on2konrad](https://github.com/orgs/on2-dev/people/on2konrad))  
+__Author__ | Alexandre Conrado ([@on2konrad](https://github.com/on2konrad))  
 __Tags__ |  
 __Slides__ |  
 __Resources__ | 
