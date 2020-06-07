@@ -140,7 +140,7 @@ Changes to be committed:
 
 --beginshelloutput
 $ git commit
---color red
+--color green
 Issue #01 Adiciona uns html/js ai.
 --color white
 
@@ -162,6 +162,25 @@ nota:
  #       new file:   index.html
  #
 --color white
+--endshelloutput
+
+--newpage log
+--heading log
+
+--beginshelloutput
+$ git log
+--color yellow
+commit 182649b3492cf41251610ad7d332c6fb00ce9dac (HEAD -> master)
+--color white
+Author: Developer <developer@noprivacy.com>
+Date:   Sun Jun 7 12:08:23 2020 -0300
+
+    Issue #01 Adiciona uns html/js ai.
+
+    adicionei um label, input e uma lib chamada Previous
+
+    nota:
+       # Previous apresenta erros estranhos de build
 --endshelloutput
 
 --newpage git diff
