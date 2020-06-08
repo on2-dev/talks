@@ -204,6 +204,61 @@ Date:   Sun Jun 7 12:08:23 2020 -0300
        # Previous apresenta erros estranhos de build
 --endshelloutput
 
+
+--newpage git show
+--heading 
+--beginshelloutput
+$ git show --stat 182649b3492cf41251610ad7d332c6fb00ce9dac
+
+--color yellow
+commit 182649b3492cf41251610ad7d332c6fb00ce9dac
+--color white
+Author: developer <developer@noprivacy.com>
+Date:   Sun Jun 7 12:08:23 2020 -0300
+
+    Issue #01 Adiciona uns html/js ai.
+
+    adicionei um label, input e uma lib chamada Previous
+
+    nota:
+       # Previous apresenta erros estranhos de build
+
+ app.js     |  9 +++++++++
+ index.html | 13 +++++++++++++
+ 2 files changed, 22 insertions(+)
+--endshelloutput
+
+--newpage git blame
+--heading achando o culpado...
+
+--beginshelloutput
+$ git blame index.html
+
+^182649b (developer 2020-06-07 12:08:23 -0300  1) <!DOCTYPE html>
+^182649b (developer 2020-06-07 12:08:23 -0300  2) <html lang="en">
+^182649b (developer 2020-06-07 12:08:23 -0300  3) <head>
+^182649b (developer 2020-06-07 12:08:23 -0300  4)     <meta charset="UTF-8">
+^182649b (developer 2020-06-07 12:08:23 -0300  5)     <title>Git - The Stupid Content Tracker</title>
+^182649b (developer 2020-06-07 12:08:23 -0300  6) </head>
+^182649b (developer 2020-06-07 12:08:23 -0300  7) <body>
+^182649b (developer 2020-06-07 12:08:23 -0300  8)    <a href="https://en.wikipedia.org/wiki/RTFM">RTFM</a>
+^182649b (developer 2020-06-07 12:08:23 -0300  9) 
+b8ae6687 (developer 2020-06-07 14:11:07 -0300 10)    <form class="form">
+66a821d0 (developer 2020-06-07 14:05:26 -0300 11)       <fieldset>
+66a821d0 (developer 2020-06-07 14:05:26 -0300 12)          <legend>Digite o cpf</legend>
+b8ae6687 (developer 2020-06-07 14:11:07 -0300 13)       <div class="form-group">
+b8ae6687 (developer 2020-06-07 14:11:07 -0300 14)       <label for="cpf">cpf</label>
+b8ae6687 (developer 2020-06-07 14:11:07 -0300 15)       <input type="text">
+b8ae6687 (developer 2020-06-07 14:11:07 -0300 16)       </div>
+d6070543 (developer 2020-06-07 12:31:14 -0300 17) 
+d6070543 (developer 2020-06-07 12:31:14 -0300 18) 
+b8ae6687 (developer 2020-06-07 14:11:07 -0300 19)       <button type="submit" class="btn btn-primary">Validar</button>
+66a821d0 (developer 2020-06-07 14:05:26 -0300 20)       </fieldset>
+d6070543 (developer 2020-06-07 12:31:14 -0300 21)    </form>
+^182649b (developer 2020-06-07 12:08:23 -0300 22) </body>
+^182649b (developer 2020-06-07 12:08:23 -0300 23) </html>
+--endshelloutput
+
 --newpage git diff
 --heading o que mudou?
 
