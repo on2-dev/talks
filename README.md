@@ -5,10 +5,10 @@ Below you'll find the index by content, author, etc.
 # 🗓 Calendar
 Date | Talk
 --- | ---
-March 13, 2020 | [The Power of CSS3](https://github.com/lucaspdroz/ThePowerOfCSS)
-March 30, 2020 | [TypeScript - It seems like types in JavaScript are a good thing](#typescript)
-March 02, 2020 | [Docker](#docker)
-
+March 13rd, 2020 | [The Power of CSS3](https://github.com/lucaspdroz/ThePowerOfCSS)
+March 30th, 2020 | [TypeScript - It seems like types in JavaScript are a good thing](#typescript)
+March 02nd, 2020 | [Docker](#docker)
+April 28th, 2020 | [Modelagem de Ameaças](#ThreatModeling) 
 
 
 ## The Power of CSS3
@@ -55,4 +55,17 @@ __Description [en]__ | TypeScript attracts more and more people in the dev commu
 __Author__ | Jaydson Gomes ([@jaydson](https://github.com/orgs/on2-dev/people/jaydson))  
 __Tags__ | typescript, javascript  
 __Slides__ |  
+__Resources__ | 
+
+
+## Modelagem de Ameaças
+Info | Data
+--- | ---
+__Date__ | April 28th, 2020
+__Title__ | Modelagem de Ameaças
+__Description__ | Como identificar e responder aos riscos no desenvolvimento de sistemas e aplicações
+__Author__ | Renata ([@rsip22](https://github.com/renata-on2))  
+__Tags__| segurança, threat modeling, owasp
+__Slides__ | https://github.com/on2-dev/talks/tree/master/resources/threat_modeling.pdf
+__Video__ | https://drive.google.com/file/d/1OF5paoGFecAipv9XXY8RY6_D0BY8HqRX/view?usp=sharing
 __Resources__ | 
