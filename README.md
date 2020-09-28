@@ -69,3 +69,15 @@ __Tags__| segurança, threat modeling, owasp
 __Slides__ | https://github.com/on2-dev/talks/tree/master/resources/threat_modeling.pdf
 __Video__ | https://drive.google.com/file/d/1OF5paoGFecAipv9XXY8RY6_D0BY8HqRX/view?usp=sharing
 __Resources__ | 
+
+
+## Acessibilidade Web
+Info | Data
+--- | ---
+__Date__ | September 28th, 2020
+__Title__ | <Acessibilidade Web />
+__Description__ | Introdução ao assunto e algumas dicas simples para atender alguns critérios da WCAG
+__Author__ | Maíra ([@maira-o](https://github.com/maira-o))  
+__Tags__| wcag, acessibilidade, ux & ui design, web, front-end
+__Slides__ | https://docs.google.com/presentation/d/1U8g7tzNbYpDUd2WLbS1aHzZvc9_QG7nN_SE9D3gfd8o/edit?usp=sharing
+__Video__ | https://drive.google.com/open?id=1xWxhzR6eB06_6h8efAmpa4FZkq5SP7KU
